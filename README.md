@@ -18,3 +18,5 @@ The visualization can be easily run locally by using a simple http server e.g.
 python -m htttp.server 8888
 ```
 and then opening it in a browser http://localhost:8889/germany_map.html.
+
+It can also be found on Youtube: https://www.youtube.com/watch?v=M9B6r5ggLh4
