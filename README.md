@@ -15,7 +15,7 @@ The following types of energy plants are considered:
 # Run Visualization
 The visualization can be easily run locally by using a simple http server e.g.
 ```
-python -m htttp.server 8888
+python -m htttp.server 8889
 ```
 and then opening it in a browser http://localhost:8889/germany_map.html.
 
